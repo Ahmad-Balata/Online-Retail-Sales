@@ -111,11 +111,7 @@ These visualizations help understand how sales change over time and across diffe
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
-
-Example:
-
-Dashboard
+![Dashboard](dashboard.png)
 
 ---
 
